@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/amir-sirhan/amir-sirhan/raw/main/amir.svg" alt="Hi there, I'm Amir Sirhan">
+  <img src="https://github.com/amir-sirhan/amir-sirhan/raw/main/assets/amir.svg" alt="Hi there, I'm Amir Sirhan">
 </p>
 
 ---
